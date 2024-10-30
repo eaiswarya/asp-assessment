@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp-assessment\\LibraryBookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\dtos\\borrowinghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\dtos\\borrowinghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\dtos\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\dtos\\returndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\dtos\\returndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\borrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\borrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\dateinpastattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\dateinpastattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\models\\dtos\\paginatedlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\models\\dtos\\paginatedlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|d:\\asp-assessment\\librarybookmanagement\\librarybookmanagement\\librarybookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A5F1D4C-4E72-4326-B06C-43ACD05E4860}|LibraryBookManagement\\LibraryBookManagement.csproj|solutionrelative:librarybookmanagement\\librarybookmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Controllers\\LibraryController.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:13:09.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowingRecord.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\BorrowingRecord.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\BorrowingRecord.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\BorrowingRecord.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\BorrowingRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:44:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReturnDto.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\ReturnDto.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\Dtos\\ReturnDto.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\ReturnDto.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\Dtos\\ReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:53:24.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\Dtos\\CheckoutDto.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\CheckoutDto.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\Dtos\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:32:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowingHistoryDto.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\BorrowingHistoryDto.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\Dtos\\BorrowingHistoryDto.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\BorrowingHistoryDto.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\Dtos\\BorrowingHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:31:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:19:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\appsettings.json",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryBookManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T07:24:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Program.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Program.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:58:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\Book.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:25:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DateInPastAttribute.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\DateInPastAttribute.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\DateInPastAttribute.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\DateInPastAttribute.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\DateInPastAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:14:42.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaginatedListResponse.cs",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\PaginatedListResponse.cs",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\Models\\Dtos\\PaginatedListResponse.cs",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\Models\\Dtos\\PaginatedListResponse.cs",
+              "RelativeToolTip": "LibraryBookManagement\\Models\\Dtos\\PaginatedListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:46:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryBookManagement",
+              "DocumentMoniker": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\LibraryBookManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryBookManagement\\LibraryBookManagement.csproj",
+              "ToolTip": "D:\\asp-assessment\\LibraryBookManagement\\LibraryBookManagement\\LibraryBookManagement.csproj",
+              "RelativeToolTip": "LibraryBookManagement\\LibraryBookManagement.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T04:22:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

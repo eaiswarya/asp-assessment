@@ -1,0 +1,6 @@
+﻿namespace LibraryBookManagement.Data
+{
+    public class ApplicationDbContext
+    {
+    }
+}
