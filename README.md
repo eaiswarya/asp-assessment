@@ -6,11 +6,11 @@
 
 ###  API Endpoints
 
-####  GET /api/books
-####  POST /api/books
-####  POST /api/books/{id}/checkout
-####  POST /api/books/{id}/return
-####  GET /api/books/{id}/history
+-  GET /api/books
+-  POST /api/books
+-  POST /api/books/{id}/checkout
+-  POST /api/books/{id}/return
+-  GET /api/books/{id}/history
 
 ### Swagger
 #### https://localhost:8080/swagger/index.html
