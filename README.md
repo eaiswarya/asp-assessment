@@ -1,4 +1,5 @@
 ## Library Book Management API
+A REST API for a library system that manages books and their borrowing records.
 
 ###  Models:
 - Book (Id, Title, Author, ISBN, IsAvailable)
